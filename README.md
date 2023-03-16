@@ -3,8 +3,7 @@ Mostrar  meus dados através desse currículo
 ---
 
 
-## Informaçôes pessoais
-=======
+
 ## Informnaçôes pessoais
 
 - Nome: Pedro Henrique Nalom
@@ -13,6 +12,13 @@ Mostrar  meus dados através desse currículo
 - Nascionalidade: Brasileiro
 - Natural de: Marília
 ---
+
+## Idiomas: 
+- Inglês fluente
+-Intituição: Fisk(2016-2021)
+- Formação: Programa de High School - Agosto 2021 / Janiero 2022
+- País: Estados Unidos , Malvern - Ohio
+
 ## Contatos: 
 - Email:pedronalon2005@gmail.com
 ---
