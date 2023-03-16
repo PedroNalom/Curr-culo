@@ -3,8 +3,7 @@ Mostrar  meus dados através desse currículo
 ---
 
 
-## Informaçôes pessoais
-=======
+
 ## Informnaçôes pessoais
 
 - Nome: Pedro Henrique Nalom
